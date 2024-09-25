@@ -20,4 +20,4 @@ Feel free to connect with me:
 - [LinkedIn] www.linkedin.com/in/satish-satti-707297229
 - [Mail] Satishdevops777@gmail.com
 
-  :s
+
