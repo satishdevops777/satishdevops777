@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm Satish, AWS Certified Solution Architect (SAA-003) and Certified Terraform Associate with 5+ Years of experience in Linux System Adminstration, Cloud Computing and DevOps Practices. 
+👋 Hi there! I'm Satish, **AWS Certified Solution Architect (SAA-003)** and **Certified Terraform Associate** with 5+ Years of experience in Linux System Adminstration, Cloud Computing and DevOps Practices. 
 
 ### 💻 Skills
 - **Cloud Platforms**: AWS
