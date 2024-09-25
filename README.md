@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm [Your Name], a DevOps Engineer with a passion for automating processes and enhancing productivity. I specialize in bridging the gap between development and operations, ensuring seamless deployments and robust infrastructure.
+👋 Hi there! I'm Satish, AWS Certified Solution Architect (SAA-003) and Certified Terraform Associate with 5+ Years of experience in Linux System Adminstration, Cloud Computing and DevOps Practices. 
 
 ### 💻 Skills
 - **Cloud Platforms**: AWS
