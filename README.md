@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm [Your Name] 👋
 
-<!--
-**satishdevops777/satishdevops777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer interested in open-source projects and web development.
 
-Here are some ideas to get you started:
+## Skills
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Databases: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My Portfolio](https://github.com/yourusername/portfolio)
+- [Awesome Project](https://github.com/yourusername/awesome-project)
+
+## Get in Touch
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
