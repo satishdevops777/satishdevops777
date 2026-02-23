@@ -10,10 +10,6 @@ I specialize in building robust CI/CD pipelines, automating cloud infrastructure
 - **Configuration Management**: Ansible, Terraform
 - **Scripting Languages**: Python, Bash
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Splunk, Nagios and Blazemeter
-
-### 🌟 Projects
-- A project with Shell-scripting : https://github.com/satishdevops777/roboshop-scripts
-- A project with ansible roles and tasks : https://github.com/satishdevops777/ansible-v5
   
 ### 📫 Get in Touch
 Feel free to connect with me:
